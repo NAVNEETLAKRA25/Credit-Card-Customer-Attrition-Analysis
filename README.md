@@ -1,4 +1,4 @@
-# Credit Card Customer Analytics \& Attrition Analysis
+# Credit Card Customer Attrition Analysis
 
 ## Project Overview
 
